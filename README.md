@@ -4,7 +4,7 @@
 - 🌱 I’m currently exploring some projects on Data Visualization and learning Quantum Computing.
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: 
--   Email: guilherme.desousa@gmail.com
+-   Email: guilherme2.desousa@gmail.com
 -   Lindekin: https://www.linkedin.com/in/guilherme-de-sousa-26b11874/
 
 <!---
